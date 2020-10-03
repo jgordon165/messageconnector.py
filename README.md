@@ -25,7 +25,7 @@ Directions:
 7. setup credentials.py file
   here's an example using all required properties
   a helpful note: you will need to go through the required steps in twilio, vonage, and telegram to setup required token and secrets for each(I have not given proper examples of these but I plan to in the future)
-  '
+  ```
   bot_token = "23423:asdfas"
   URL = "https://examplednsurl.ngrok.co"
   api_id = "231412"
@@ -38,5 +38,5 @@ Directions:
   principal_number = "15555555555(note:this can be the same number as your twilio - but it can also be another number used to forward texts - e.g. google voice)"
   telegram_api_id = "23423423"
   telegram_api_hash= "adsfasdf3242342"
-  '
+  ```
 8. execute the application by running main.py(e.g. "python3 main.py")
