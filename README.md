@@ -24,7 +24,7 @@ Directions:
 6. setup some kind of DNS forwarder for webhooks to manage your localhost instance of flask(I used NGROK)
 7. setup credentials.py file
   here's an example using all required properties
-  a helpful note: you will need to go through the required steps in twilio, vonage, and telegram to setup required token and secrets for each(I have not given proper examples of these but I plan to in the future)
+  **a helpful note:** *you will need to go through the required steps in twilio, vonage, and telegram to setup required token and secrets for each(I have not given proper examples of these **but I plan to in the future**)*
   ```
   bot_token = "23423:asdfas"
   URL = "https://examplednsurl.ngrok.co"
