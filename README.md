@@ -12,6 +12,8 @@ The following basic python packages are required to install (preferably using pi
 4. flask
 5. twilio
 6. nexmo(optional)
+7. sqllite3
+8. pathlib
 
 Directions:
 1. Pull down the repo
