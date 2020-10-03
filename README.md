@@ -4,7 +4,7 @@ An SMS and Messages Connector app that integrates TelegramBotPy with Vonage and 
 This will be a running document - but here's some basic instructions to get started
 
 Python 3 is required
-The following basic python packages are required to install (preferably using pip3 - example: "pip3 install telgram"):
+The following basic python packages are required to install (preferably using pip3 - example: `pip3 install telgram`):
 
 1. telebot
 2. telegram
@@ -39,4 +39,4 @@ Directions:
   telegram_api_id = "23423423"
   telegram_api_hash= "adsfasdf3242342"
   ```
-8. execute the application by running main.py(e.g. "python3 main.py")
+8. execute the application by running main.py(e.g. `python3 main.py`)
